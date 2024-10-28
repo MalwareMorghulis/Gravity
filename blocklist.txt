@@ -1,3 +1,14 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: blocklist.txt
+# Expires: 1 day
+# License: GNU GPLv3
+# -------------------------------------[INFO]---------------------------------------
+#
+# blocklist.txt
+# Curated via automated and manual CTI pivoting - see IOCs repo for reference.
+# This list may contain false-positives and nameservers - use at your own risk!
+#
+# ------------------------------------[DOMAINS]-------------------------------------
 0.0.0.0 0034vip.com
 0.0.0.0 004082.space
 0.0.0.0 00439048.cn.cdn.cloudflare.net
