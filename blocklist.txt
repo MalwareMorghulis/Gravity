@@ -18711,6 +18711,7 @@
 0.0.0.0 tzspgzo.com
 0.0.0.0 tztaoly.com
 0.0.0.0 tzwlsgg.com
+0.0.0.0	u.infotracklaf.top
 0.0.0.0 u.rgth.co
 0.0.0.0 u003puf.yb550.com
 0.0.0.0 u005ivv.yb550.com
