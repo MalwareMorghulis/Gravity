@@ -11,7 +11,7 @@
 # This list may contain false-positives and nameservers - use at your own risk!
 #
 # Created: 20241028
-# Updated: 20241028
+# Updated: 20241119
 #
 # ------------------------------------[DOMAINS]-------------------------------------
 0.0.0.0 0034vip.com
@@ -6448,6 +6448,7 @@
 0.0.0.0 figureesti.shopping
 0.0.0.0 fii.lidl9s.com
 0.0.0.0 fijlcat.com
+0.0.0.0 filedownloaderservers.com
 0.0.0.0 filegear-sg.me
 0.0.0.0 filemission.business
 0.0.0.0 filerehearse.com
@@ -15318,6 +15319,7 @@
 0.0.0.0 raflitatherco.gq
 0.0.0.0 ragebrittle.com
 0.0.0.0 ragemust.shopping
+0.0.0.0 ragnarokfromasgard.com
 0.0.0.0 rahilib.com
 0.0.0.0 raihhxz.com
 0.0.0.0 railassent.technology
@@ -16900,6 +16902,11 @@
 0.0.0.0 sonics-mastering.fr
 0.0.0.0 soorxsc.com
 0.0.0.0 soothebase.cricket
+0.0.0.0 sophosenterprisecenter.com
+0.0.0.0 sophosfirewallupdate.com
+0.0.0.0 sophosproductupdate.com
+0.0.0.0 sophostraining.org
+0.0.0.0 sophoswarehouse.com
 0.0.0.0 sopjbyk.com
 0.0.0.0 soqfvkr.com
 0.0.0.0 sorecheese.com
