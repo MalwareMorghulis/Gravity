@@ -17595,6 +17595,10 @@
 0.0.0.0 usps.com-trackzzy.top
 0.0.0.0 usps.com-trackzzz.top
 
+# 20241116
+0.0.0.0 u.infotracklaf.top
+0.0.0.0 infotracklaf.top
+
 # 20240721
 0.0.0.0 us-usps-tfbtnn.xyz
 
