@@ -11,6 +11,7 @@ It is currently unconfirmed whether or not these activity clusters are related o
 - Blocklist: Generic blocklist for sinkholing (some overlap here, but will eventually be independent from the 3x below).
 - Cats Cradle: SMS spearphishing utilizing random characters (approximately 5-9 characters)
 - Double Helix: SMS spearphishing utilizing dual-word concatenation (even words are truncated)
+- Easy Rider: Toll-themed or EZ-Pass themed SMS spearphishing utlizing random character concatenation.
 - Pandoras Box: USPS-themed SMS Spearphishing Domains (typically package tracking or typo-squatting service offerings like Informed Delivery)
 
 # Disclaimer
