@@ -7,6 +7,8 @@ These monikers are my own naming convention - unrelated to CrowdStrike, Mandiant
 
 It is currently unconfirmed whether or not these activity clusters are related or the same threat actor. Pending deeper review at this time.
 
+Eventually, the lists will be reduced to regexes for maintenance purposes, ease of change-control, and due to UI limitations of LevelBlue OTX.
+
 # DGA Tracker:
 - Blocklist: Generic blocklist for sinkholing (some overlap here, but will eventually be independent from the 3x below).
 - Cats Cradle: SMS spearphishing utilizing random characters (approximately 5-9 characters)
