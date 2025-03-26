@@ -22,7 +22,13 @@
 
 # 20250325
 0.0.0.0 (^|\.)ezpass.com-[a-z]{1,6}.vip$
+0.0.0.0 (^|\.)ezpass.org-[a-z]{3}.vip$
+0.0.0.0 (^|\.)e-zpass.org-[a-z]{3}.vip$
+0.0.0.0 (^|\.)ncquickpass.com-[a-z]{3}.vip$
 0.0.0.0 (^|\.)thetollroads.com-[a-z]{1,3}.xin$
+0.0.0.0 (^|\.)www.org-[a-z]{3}.vip$
+0.0.0.0 chat.ruisheng.info
+0.0.0.0 spurtup.com
 
 # 20250213
 0.0.0.0 (^|\.)com-dmv-invoice[a-z]{2}.top$
