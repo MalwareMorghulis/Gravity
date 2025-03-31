@@ -12,6 +12,13 @@ Eventually, the lists will be reduced to regexes for maintenance purposes, ease 
 # Generic List:
 - Blocklist: Generic blocklist for sinkholing (some overlap here, but will eventually be independent from the 3x below).
 
+# TLD Block List (See WARNING below):
+- TLD_IANA_Generic.txt: Contains ALL* (at least in 2024) generic TLDs (gTLDs) authorized by IANA for blocking entire swaths of the Internet.
+- TLD_IANA_CountryCodes.txt: Contains ALL* (at least in 2024) Country Code TLDs (ccTLDs) authorized by IANA for blocking entire swaths of the Internet.
+
+**WARNING**: Please modify these TLD blocks as necessary and in your own repo. You have to point your PiHole to your own repo for any custom TLD blocklists because these TLD lists will block almost everything (even *.com, etc).
+**NOTE**: There are also way more efficient methods (ie: geolocation lists) or optimized entries to add TLDs into sinkholes, such as in single-line groupings with pipe '|' characters.
+
 # DGA Tracker
 - Cats Cradle: SMS spearphishing utilizing random characters (approximately 5-9 characters)
 - Double Helix: SMS spearphishing utilizing dual-word concatenation (even words are truncated)
