@@ -14,15 +14,15 @@
 # Note: this list may not have all activity seen in OTX due to merge issues.
 #
 # Created: 20241225
-# Updated: 20250114
+# Updated: 20250331
 #
 # Special Thanks to John C. for providing IOC samples
 #
 # ------------------------------------[DOMAINS]-------------------------------------
 
 # 20250331
-0.0.0.0 (^|\.)[a-z]{2}gov.com-[a-z]{5}.xin
 0.0.0.0 ^secure.payment[a-z]{1,6}.top$
+0.0.0.0 (^|\.)[a-z]{2}gov.com-[a-z]{5}.xin$
 0.0.0.0 (^|\.)ezpass[a-z]{2}.com-tollbill[a-z]{1,4}.xin$
 0.0.0.0 (^|\.)e-zpass[a-z]{2}.com-pay[a-z]{1,4}.top$
 0.0.0.0 (^|\.)thetollroads-paytoll[a-z]{1,4}.world$
