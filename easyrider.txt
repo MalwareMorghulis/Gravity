@@ -22,6 +22,7 @@
 
 # 20250331
 0.0.0.0 ^secure.payment[a-z]{1,6}.top$
+0.0.0.0 (^|\.)ezpass[a-z]{2}.com-tollbill[a-z]{1,4}.xin$
 0.0.0.0 (^|\.)e-zpass[a-z]{2}.com-pay[a-z]{1,4}.top$
 0.0.0.0 (^|\.)thetollroads-paytoll[a-z]{1,4}.world$
 0.0.0.0 (^|\.)thetollroads-tollevasion[a-z]{1,4}.world$
