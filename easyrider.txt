@@ -14,11 +14,15 @@
 # Note: this list may not have all activity seen in OTX due to merge issues.
 #
 # Created: 20241225
-# Updated: 20250331
+# Updated: 20250421
 #
 # Special Thanks to John C. for providing IOC samples
 #
 # ------------------------------------[DOMAINS]-------------------------------------
+
+
+# 20250421
+0.0.0.0 (^|\.) e-zpass.com-tollbill[a-z]{3}.top$
 
 # 20250406 - Observed cutt[.]ly shortener
 0.0.0.0 (^|\.)[a-z]{5}.xyz$
