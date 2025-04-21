@@ -16,13 +16,29 @@
 # Created: 20241225
 # Updated: 20250421
 #
-# Special Thanks to John C. for providing IOC samples
+# Special Thanks to DomainTools for IRIS Investigate and enabling this research!
+# Thanks to John C. for providing IOC samples!
 #
 # ------------------------------------[DOMAINS]-------------------------------------
 
-
-# 20250421
+# 20250421 - Blanket blocking OBS Huawei Cloud
+0.0.0.0 (^|\.)e-zpass.app$
+0.0.0.0 (^|\.)e-zpass.club$
+0.0.0.0 (^|\.)e-zpass.info$
+0.0.0.0 (^|\.)e-zpass.net$
+0.0.0.0 (^|\.)obs.myhuaweicloud.com$
 0.0.0.0 (^|\.)e-zpass.com-tollbill[a-z]{3}.top$
+0.0.0.0 (^|\.)e-zpass.com-[a-z]{4}.xin$
+0.0.0.0 (^|\.)e-zpass.org-[a-z]{3,7}.top.obs.myhuaweicloud.com$
+0.0.0.0 (^|\.)e-zpass.com-[a-z]{3}.obs.myhuaweicloud.com$
+0.0.0.0 (^|\.)e-zpass.com-[a-z]{3,7}.top.obs.myhuaweicloud.com$
+0.0.0.0 (^|\.)e-zpass.com-[a-z]{3,7}.xin.obs.myhuaweicloud.com$
+#0.0.0.0 (^|\.)e-zpass.com.[a-z]{3,8}.fr.obs.myhuaweicloud.com$
+#0.0.0.0 (^|\.)e-zpass.com-[a-z]{3,8}.cc.obs.myhuaweicloud.com$
+#0.0.0.0 (^|\.)e-zpass.com-[a-z]{3,8}.vip.obs.myhuaweicloud.com$
+#0.0.0.0 (^|\.)e-zpass.com-[a-z]{3,7}-[a-z]{3,7}.vip.obs.myhuaweicloud.com$
+#0.0.0.0 (^|\.)e-zpass.com-[a-z]{3,8}.top.obs.myhuaweicloud.com$
+#0.0.0.0 (^|\.)e-zpass.com-[a-z]{3,7}-[a-z]{3,7}.top.obs.myhuaweicloud.com$
 
 # 20250406 - Observed cutt[.]ly shortener
 0.0.0.0 (^|\.)[a-z]{5}.xyz$
