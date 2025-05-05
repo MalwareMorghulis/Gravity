@@ -35,6 +35,7 @@ Eventually, the lists will be reduced to regexes for maintenance purposes, ease 
 
 # Special Thanks
 1) Thank you to DomainTools for your support and helping me stay in the fight! The IRIS Investigate tool is amazing and I've been using it for expanding and long-term analysis in the DGA clusters.
+2) ExtraHop for giving me the time & opportunity to pursue these side-hobby objectives!
 
 # Honorable Mentions - Thank You for Community Researcher Account Access!
 1) Sublime Security
