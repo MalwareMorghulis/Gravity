@@ -3,9 +3,17 @@ DNS Sinkhole list of FQDNs from LevelBlue (AlienVault) OTX pivots by "MalwareMor
 
 Data was curated from automated and manual pivots to uncover suspicious or potentially hostile infrastructure.
 
-These monikers are my own naming convention - unrelated to CrowdStrike, Mandiant, Palo Alto, etc. They are named for fun based on the TTP observed.
+These monikers for campaign tracking are my own naming convention - unrelated to CrowdStrike, Mandiant, Palo Alto, etc. They are named for fun based on the TTP observed.
 
-It is currently unconfirmed whether or not these activity clusters are related or the same threat actor. Pending deeper review at this time.
+UPDATE: Based on available open-source reporting, these campaign activity clusters are likely associated with "Smishing Triad" (a cybercriminal group believed to be located in China).
+
+References:
+- https://www.silentpush.com/blog/smishing-triad/
+- https://krebsonsecurity.com/2025/04/china-based-sms-phishing-triad-pivots-to-banks/
+- https://malpedia.caad.fkie.fraunhofer.de/actor/smishing_triad
+- https://www.wired.com/story/smishing-triad-scam-group/
+- https://www.resecurity.com/blog/article/smishing-triad-is-now-targeting-toll-payment-services-in-a-massive-fraud-campaign-expansion
+
 
 Eventually, the lists will be reduced to regexes for maintenance purposes, ease of change-control, and due to UI limitations of LevelBlue OTX.
 
@@ -26,7 +34,13 @@ Eventually, the lists will be reduced to regexes for maintenance purposes, ease 
 - Pandoras Box: USPS-themed SMS Spearphishing Domains (typically package tracking or typo-squatting service offerings like Informed Delivery)
 
 # Special Thanks
-Thank you to DomainTools for your support and helping me stay in the fight! The Iris tool is amazing and I've been using it for expanding and long-term analysis in the DGA clusters.
+1) Thank you to DomainTools for your support and helping me stay in the fight! The IRIS Investigate tool is amazing and I've been using it for expanding and long-term analysis in the DGA clusters.
+
+# Honorable Mentions - Thank You for Community Researcher Account Access!
+1) Sublime Security
+2) Epeios
+3) Daniel P at Malpedia
+4) Paul B at MB
 
 # Disclaimer
-1) This list is provided "as-is". This may break infrastructure because some nameservers could be in this list. Use at your own risk.
+- These lists are provided "as-is". This may break infrastructure because some nameservers could be in this list. Fork & prune or use at your own risk.
