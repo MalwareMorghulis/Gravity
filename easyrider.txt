@@ -24,7 +24,7 @@
 # 20250505 - Thank you John C!
 0.0.0.0 (^|\.)com-usa[a-z](3,4).world$
 0.0.0.0 (^|\.)com-tollbill[a-z](1,6).world$
-0.0.0.0 (^|\.)com-[a-z](3,12).world$
+0.0.0.0 (^|\.)com-[a-z](3,16).world$
 
 # 20250421 - Blanket blocking OBS Huawei Cloud
 0.0.0.0 (^|\.)e-zpass.app$
