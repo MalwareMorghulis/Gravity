@@ -27,11 +27,12 @@
 # 20250609 - DMV Tickets
 0.0.0.0 (^|\.)hdkgra.vip$
 0.0.0.0 (^|\.)mknja.vip$
+0.0.0.0 (^|\.)[a-z]{5}.vip$
 
 # 20250505 - Thank you John C!
-0.0.0.0 (^|\.)com-usa[a-z](3,4).world$
-0.0.0.0 (^|\.)com-tollbill[a-z](1,6).world$
-0.0.0.0 (^|\.)com-[a-z](3,16).world$
+0.0.0.0 (^|\.)com-usa[a-z]{3,4}.world$
+0.0.0.0 (^|\.)com-tollbill[a-z]{1,6}world$
+0.0.0.0 (^|\.)com-[a-z]{3,16}.world$
 
 # 20250421 - Blanket blocking OBS Huawei Cloud
 0.0.0.0 (^|\.)e-zpass.app$
