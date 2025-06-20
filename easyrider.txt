@@ -14,12 +14,15 @@
 # Note: this list may not have all activity seen in OTX due to merge issues.
 #
 # Created: 20241225
-# Updated: 20250610
+# Updated: 20250619
 #
 # Special Thanks to DomainTools for IRIS Investigate and enabling this research!
 # Thanks to John C. for providing IOC samples!
 #
 # ------------------------------------[DOMAINS]-------------------------------------
+
+# 20250609 - DMV Tickets
+0.0.0.0 (^|\.)[a-z]{2}.gov-[a-z]{4}.live$
 
 # 20250609 - DMV Tickets
 0.0.0.0 (^|\.)hdkgra.vip$
