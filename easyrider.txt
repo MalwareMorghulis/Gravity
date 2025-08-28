@@ -7,22 +7,25 @@
 # -------------------------------------[INFO]---------------------------------------
 #
 # easyrider.txt
-# USPS, UPS, FedEx, Delivery, EZPass or toll-themed SMS-based spearphishing C2 domains.
+# EZPass or toll-themed SMS-based spearphishing C2 domains.
 # See OTX for reference tagged "Easy Rider"
 #   or https://otx.alienvault.com/browse/global/pulses?q=tag:%22Easy%20Rider%22
 #
 # Note: this list may not have all activity seen in OTX due to merge issues.
+#   This set has been condensed into regexes (for known DGA). Original FQDN is
+#   still listed below for archival purposes.
+#
+# This cluster of activity is currently attributed to the SMShing Triad.
+#
+# The DGA pattern was observed to be related and similar in nature to Pandoras Box.
 #
 # Created: 20241225
-# Updated: 20250826
+# Updated: 20250828
 #
 # Special Thanks to DomainTools for IRIS Investigate and enabling this research!
 # Thanks to John C. for providing IOC samples!
 #
 # ------------------------------------[DOMAINS]-------------------------------------
-
-# 20250826
-0.0.0.0 (^|\.)best[a-z]{2}.ink$
 
 # 20250807
 0.0.0.0 (^|\.)[a-z]{2}.dmv-[a-z]{3,6}.cc$
@@ -100,36 +103,14 @@
 0.0.0.0 (^|\.)ezdrive-[a-z]{2}.xin$
 
 # 20250114 - Reordered Regex
-0.0.0.0 (^|\.)amazon.com-*.top$
-0.0.0.0 (^|\.)anpost.com-winches[a-z]{1,2}.top$
 0.0.0.0 (^|\.)com-custo[a-z]{1,7}.top$
 0.0.0.0 (^|\.)com-thetoll[a-z]{1,5}.top$
-0.0.0.0 (^|\.)com-[a-z]{1,10}.top$
 0.0.0.0 (^|\.)ezdrivema.com-custo[a-z]{1,6}.top$
 0.0.0.0 (^|\.)ezdrivema.com-thetoll[a-z]{1,5}.top$
 0.0.0.0 (^|\.)ezdrivema.com-[a-z]{1,10}.top$
 0.0.0.0 (^|\.)thetollroads.com-custo[a-z]{1,6}.top$
-0.0.0.0 (^|\.)usps.com-[a-z]{1,12}.top$
 
 # 20250114
-0.0.0.0 amazon.com-custosasmz.top
-0.0.0.0 anpost.com-winchessn.top
-0.0.0.0 com-customasder.top
-0.0.0.0 com-custosaczvzc.top
-0.0.0.0 com-custosascaz.top
-0.0.0.0 com-custosasccz.top
-0.0.0.0 com-custosascnz.top
-0.0.0.0 com-custosascs.top
-0.0.0.0 com-custosascsa.top
-0.0.0.0 com-custosascsm.top
-0.0.0.0 com-custosascsn.top
-0.0.0.0 com-custosascsx.top
-0.0.0.0 com-custosascsz.top
-0.0.0.0 com-custosasmz.top
-0.0.0.0 com-thetollaezcs.top
-0.0.0.0 com-thetollaszcs.top
-0.0.0.0 com-thetollcbzcs.top
-0.0.0.0 com-thetollzczcs.top
 0.0.0.0 com-traaus.top
 0.0.0.0 com-trabing.top
 0.0.0.0 com-tracacaus.top
@@ -157,13 +138,3 @@
 0.0.0.0 ezdrivema.com-trcnaxasvn.top
 0.0.0.0 thetollroads.com-custosascsn.top
 0.0.0.0 thetollroads.com-custosascsx.top
-0.0.0.0 usps.com-custosascaz.top
-0.0.0.0 usps.com-traaus.top
-0.0.0.0 usps.com-trabing.top
-0.0.0.0 usps.com-tracacaus.top
-0.0.0.0 usps.com-traccas.top
-0.0.0.0 usps.com-tramus.top
-0.0.0.0 usps.com-tranus.top
-0.0.0.0 usps.com-trcnacaasc.top
-0.0.0.0 usps.com-trcnacassc.top
-0.0.0.0 usps.com-trscacaus.top
