@@ -1,0 +1,23 @@
+# ------------------------------------[UPDATE]--------------------------------------
+#
+# Title: emptypromise.txt
+# Expires: 1 day
+# License: GNU GPLv3
+#
+# -------------------------------------[INFO]---------------------------------------
+#
+# emptypromise.txt
+# Email-to-Phone Spam
+#
+# This tracks the suspicious sender domains.
+#
+# Note: this list may not have all activity seen in OTX due to merge issues.
+#
+# Created: 20250901
+# Updated: 20250901
+#
+# ------------------------------------[DOMAINS]------------------------------------
+
+
+# 20230123
+0.0.0.0 (^|\.)esmdev.top$
