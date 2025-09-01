@@ -13,6 +13,7 @@ DGA Tracker:
 - Cats Cradle: SMS spearphishing utilizing random characters (approximately 5-9 characters)
 - Double Helix: SMS spearphishing utilizing dual-word concatenation (even words are truncated)
 - Easy Rider: Toll-themed or EZ-Pass themed SMS spearphishing utlizing random character concatenation.
+- Empty Promise: Fake recruiter spam, from emails, asking the user to contact them over third-party messengers: Telegram, WhatsApp, etc.
 - Pandoras Box: USPS-themed SMS Spearphishing Domains (typically package tracking or typo-squatting service offerings like Informed Delivery)
 
 Generic List:
