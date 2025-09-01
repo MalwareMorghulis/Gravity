@@ -9,7 +9,7 @@ Eventually, the lists will be reduced to regexes for maintenance purposes, ease 
 
 UPDATE: Based on available open-source reporting, these campaign activity clusters are likely associated with "Smishing Triad" (a cybercriminal group believed to be located in China).
 
-##DGA Tracker:
+## DGA Tracker:
 - Cats Cradle: SMS spearphishing utilizing random characters (approximately 5-9 characters)
 - Double Helix: SMS spearphishing utilizing dual-word concatenation (even words are truncated)
 - Easy Rider: Toll-themed or EZ-Pass themed SMS spearphishing utlizing random character concatenation.
@@ -27,7 +27,7 @@ UPDATE: Based on available open-source reporting, these campaign activity cluste
 1) DomainTools - for your support and helping me stay in the fight! The IRIS Investigate tool is amazing and I've been using it for expanding and long-term analysis in the DGA clusters.
 2) ExtraHop - for giving me the time & opportunity to pursue these side-hobby research objectives!
 
-Honorable Mentions - Thank You for your support!
+### Honorable Mentions - Thank You for your support!
 1) Sublime Security
 2) Epeios
 3) Daniel P at Malpedia
