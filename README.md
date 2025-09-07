@@ -11,12 +11,14 @@ Eventually, the lists will be reduced to regexes for maintenance purposes, ease 
 
 UPDATE: Based on available open-source reporting, these campaign activity clusters are likely associated with "Smishing Triad" (a cybercriminal group believed to be located in China).
 
-## DGA Tracker
+## DGA Tracker - Attributed to Smishing Triad
 - Cats Cradle: SMS spearphishing utilizing random characters (approximately 5-9 characters)
 - Double Helix: SMS spearphishing utilizing dual-word concatenation (even words are truncated)
 - Easy Rider: Toll-themed or EZ-Pass themed SMS spearphishing utlizing random character concatenation.
-- Empty Promise: Fake recruiter spam, from emails, asking the user to contact them over third-party messengers: Telegram, WhatsApp, etc.
 - Pandoras Box: USPS-themed SMS Spearphishing Domains (typically package tracking or typo-squatting service offerings like Informed Delivery)
+
+## Scam Tracker - Inconclusive
+- Empty Promise: Fake recruiter spam, from emails, asking the user to contact them over third-party messengers: Telegram, WhatsApp, etc.
 
 ## Generic List
 - Blocklist: Generic blocklist for sinkholing (some overlap here, but will eventually be independent from the 3x below).
