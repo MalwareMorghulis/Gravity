@@ -21257,7 +21257,6 @@
 0.0.0.0 ozadet.online
 0.0.0.0 ozicil.online
 0.0.0.0 ozorer.online
-0.0.0.0 powerdnsserver.com
 0.0.0.0 ubewob.online
 0.0.0.0 ubijec.online
 0.0.0.0 ubirid.online
